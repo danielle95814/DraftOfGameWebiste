@@ -23,33 +23,3 @@
 #topNav li {
   display: inline;
 }
-#topNav a {
-  color: white;
-  display: inline-block;
-  height: 60px;
-  line-height: 60px;
-  margin: 0px;
-  padding: 0px 15px;  /*  top/bottom | left/right  */
-  text-decoration: none;
-  transition: color 0.3s ease-in;  /*  property | time | method  */
-}
-#topNav a:hover {
-  color: black;
-}
-body {
-  background-color: #daeee4;
-    margin: auto;
-  max-width: 600px; 
-  padding: 50px; 
-  
- }
-p {font-size:20px;}
-  img {
-  display: block;
-   margin: auto;
-  width: 500px; 
-  padding: 50px;  
-}
-p, h1 {
-  color: darkgreen;
-}
